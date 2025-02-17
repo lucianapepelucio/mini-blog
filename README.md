@@ -12,7 +12,9 @@ npm run dev
 
 ## Tecnologia e Ferramentas Utilizadas:
 
--
+- React
+- Vite
+- Firebase
 
 ## Layout da Aplicação:
 
