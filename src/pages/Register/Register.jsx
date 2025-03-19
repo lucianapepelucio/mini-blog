@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 
+import { db } from "../../firebase/config";
 import { useAuthentication } from "../../hooks/useAuthentication";
 
-//import { db } from "../firebase/config";
 import styles from "./Register.module.css";
 
 const Register = () => {
