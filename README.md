@@ -18,7 +18,11 @@ npm run dev
 
 ## Layout da Aplicação:
 
--
+![Imagem da Home](./src/assets/01.png)
+![Imagem da tela de criação de novo post](./src/assets/02.png)
+![Imagem do dashboard](./src/assets/03.png)
+![Imagem da tela de cadastro de usuário ](./src/assets/04.png)
+![Imagem da tela para entrar no sistema ](./src/assets/05.png)
 
 # React + Vite
 
